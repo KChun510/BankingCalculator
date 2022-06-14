@@ -4,8 +4,7 @@
 
 
 Using the python interface "tkinter", I created a calculator that computes basic banking calculations. 
-This project was to meant to expirment with creating a working UI, that recieves multiple forms of input. 
+This project was meant to experiment with creating a working UI, that receives multiple forms of input. 
 
-My app can currenlty calculate, apr, simple interest, compund interest, and monthly payments. 
-
+My app can currently calculate, apr, simple interest, compound interest, and monthly payments. New functions are simple formulas, transferred to code.  
 
