@@ -1,6 +1,7 @@
 # BankingCalculator
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/106642545/173689617-0d5d0f89-958c-42fa-b4ca-705043b9519d.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/106642545/173691078-9f7c1246-8a33-4ec5-b4e9-f71b7127373f.gif)
+
 
 Using the python interface "tkinter", I created a calculator that computes basic banking calculations. 
 
